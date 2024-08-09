@@ -1,0 +1,21 @@
+@prefix ex:    <https://shid_tag.github.io/shid_tag/test.ttl#> .
+
+ex:こころ  a       ex:小説 ;
+        <http://purl.org/dc/elements/1.1/creator>
+                ex:夏目漱石 .
+
+<http://purl.org/dc/elements/1.1/creator>
+        <http://www.w3.org/2000/01/rdf-schema#domain>
+                ex:小説 ;
+        <http://www.w3.org/2000/01/rdf-schema#range>
+                ex:作家 .
+
+ex:小説   a       <http://www.w3.org/2000/01/rdf-schema#Class> .
+
+ex:作家   a       <http://www.w3.org/2000/01/rdf-schema#Class> ;
+        <http://www.w3.org/2000/01/rdf-schema#subClassOf>
+                ex:人間 .
+
+ex:夏目漱石  a      ex:作家 .
+
+ex:人間   a       <http://www.w3.org/2000/01/rdf-schema#Class> .
