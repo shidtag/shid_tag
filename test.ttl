@@ -1,4 +1,4 @@
-@prefix ex:    <https://shid_tag.github.io/shid_tag/test.ttl#> .
+@prefix ex:    <https://shidtag.github.io/shid_tag/test.ttl#> .
 
 ex:こころ  a       ex:小説 ;
         <http://purl.org/dc/elements/1.1/creator>
