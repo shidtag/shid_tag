@@ -1,0 +1,31 @@
+@prefix ex:    <https://shid_tag.github.io/shid_tag/final.ttl#> .
+
+<http://example.org/record4>
+        <http://example.org/総数(千人)>  "14169" ;
+        <http://example.org/表側>      "2035年" .
+
+<http://example.org/record9>
+        <http://example.org/総数(千人)>  "12742" ;
+        <http://example.org/表側>      "2060年" .
+
+<http://example.org/record2>
+        <http://example.org/総数(千人)>  "14185" ;
+        <http://example.org/表側>      "2025年" .
+
+<http://example.org/record7>
+        <http://example.org/総数(千人)>  "13520" ;
+        <http://example.org/表側>      "2050年" .
+
+<http://example.org/record10>
+        <http://example.org/総数(千人)>  "12285" ;
+        <http://example.org/表側>      "2065年" .
+
+<http://example.org/record5>
+        <http://example.org/総数(千人)>  "13983" ;
+        <http://example.org/表側>      "2040年" .
+
+<http://example.org/record3>
+        <http://example.org/総数(千人)>  "14236" ;
+        <http://example.org/表側>      "2030年" .
+
+<http://example.org/record8>
