@@ -1,4 +1,4 @@
-@prefix ex:    <https://shid_tag.github.io/shid_tag/final.ttl#> .
+@prefix ex:    <https://shidtag.github.io/shid_tag/final.ttl#> .
 
 <http://example.org/record4>
         <http://example.org/総数(千人)>  "14169" ;
