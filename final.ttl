@@ -1,31 +1,222 @@
 @prefix ex:    <https://shidtag.github.io/shid_tag/final.ttl#> .
 
 <http://example.org/record4>
-        <http://example.org/総数(千人)>  "14169" ;
-        <http://example.org/表側>      "2035年" .
+        <http://example.org/2016年度（月）>  "7" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "2" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "3" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "1" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "3" ;
+        <http://example.org/提供数件数>      "9" ;
+        <http://example.org/提供数位置図>     "12" ;
+        <http://example.org/提供数土質試験結果>  "255" ;
+        <http://example.org/提供数柱状図>     "188" .
 
 <http://example.org/record9>
-        <http://example.org/総数(千人)>  "12742" ;
-        <http://example.org/表側>      "2060年" .
+        <http://example.org/2016年度（月）>  "12" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "0" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "4" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "0" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "3" ;
+        <http://example.org/提供数件数>      "7" ;
+        <http://example.org/提供数位置図>     "11" ;
+        <http://example.org/提供数土質試験結果>  "743" ;
+        <http://example.org/提供数柱状図>     "237" .
+
+<http://example.org/record12>
+        <http://example.org/2016年度（月）>  "3" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "0" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "8" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "10" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "2" ;
+        <http://example.org/提供数件数>      "20" ;
+        <http://example.org/提供数位置図>     "20" ;
+        <http://example.org/提供数土質試験結果>  "53" ;
+        <http://example.org/提供数柱状図>     "137" .
 
 <http://example.org/record2>
-        <http://example.org/総数(千人)>  "14185" ;
-        <http://example.org/表側>      "2025年" .
+        <http://example.org/2016年度（月）>  "5" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "0" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "2" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "3" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "2" ;
+        <http://example.org/提供数件数>      "7" ;
+        <http://example.org/提供数位置図>     "25" ;
+        <http://example.org/提供数土質試験結果>  "209" ;
+        <http://example.org/提供数柱状図>     "209" .
 
 <http://example.org/record7>
-        <http://example.org/総数(千人)>  "13520" ;
-        <http://example.org/表側>      "2050年" .
+        <http://example.org/2016年度（月）>  "10" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "0" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "1" ;
+        <http://example.org/提供先建設局>     "6" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "0" ;
+        <http://example.org/提供先東京消防庁>   "2" ;
+        <http://example.org/提供先水道局>     "1" ;
+        <http://example.org/提供数件数>      "10" ;
+        <http://example.org/提供数位置図>     "35" ;
+        <http://example.org/提供数土質試験結果>  "459" ;
+        <http://example.org/提供数柱状図>     "244" .
 
 <http://example.org/record10>
-        <http://example.org/総数(千人)>  "12285" ;
-        <http://example.org/表側>      "2065年" .
+        <http://example.org/2016年度（月）>  "1" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "0" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "3" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "1" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "2" ;
+        <http://example.org/提供数件数>      "6" ;
+        <http://example.org/提供数位置図>     "8" ;
+        <http://example.org/提供数土質試験結果>  "327" ;
+        <http://example.org/提供数柱状図>     "113" .
 
 <http://example.org/record5>
-        <http://example.org/総数(千人)>  "13983" ;
-        <http://example.org/表側>      "2040年" .
+        <http://example.org/2016年度（月）>  "8" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "2" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "1" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "1" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "7" ;
+        <http://example.org/提供数件数>      "11" ;
+        <http://example.org/提供数位置図>     "15" ;
+        <http://example.org/提供数土質試験結果>  "854" ;
+        <http://example.org/提供数柱状図>     "170" .
+
+<http://example.org/record13>
+        <http://example.org/2016年度（月）>  "合計" ;
+        <http://example.org/提供先その他>     "1" ;
+        <http://example.org/提供先下水道局>    "11" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "1" ;
+        <http://example.org/提供先建設局>     "37" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "18" ;
+        <http://example.org/提供先東京消防庁>   "2" ;
+        <http://example.org/提供先水道局>     "35" ;
+        <http://example.org/提供数件数>      "105" ;
+        <http://example.org/提供数位置図>     "192" ;
+        <http://example.org/提供数土質試験結果>  "4403" ;
+        <http://example.org/提供数柱状図>     "2069" .
 
 <http://example.org/record3>
-        <http://example.org/総数(千人)>  "14236" ;
-        <http://example.org/表側>      "2030年" .
+        <http://example.org/2016年度（月）>  "6" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "2" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "1" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "0" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "4" ;
+        <http://example.org/提供数件数>      "7" ;
+        <http://example.org/提供数位置図>     "8" ;
+        <http://example.org/提供数土質試験結果>  "171" ;
+        <http://example.org/提供数柱状図>     "156" .
 
 <http://example.org/record8>
+        <http://example.org/2016年度（月）>  "11" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "1" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "3" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "1" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "2" ;
+        <http://example.org/提供数件数>      "7" ;
+        <http://example.org/提供数位置図>     "6" ;
+        <http://example.org/提供数土質試験結果>  "383" ;
+        <http://example.org/提供数柱状図>     "94" .
+
+<http://example.org/record11>
+        <http://example.org/2016年度（月）>  "2" ;
+        <http://example.org/提供先その他>     "1" ;
+        <http://example.org/提供先下水道局>    "0" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "2" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "0" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "0" ;
+        <http://example.org/提供数件数>      "3" ;
+        <http://example.org/提供数位置図>     "3" ;
+        <http://example.org/提供数土質試験結果>  "80" ;
+        <http://example.org/提供数柱状図>     "26" .
+
+<http://example.org/record1>
+        <http://example.org/2016年度（月）>  "4" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "3" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "2" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "1" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "5" ;
+        <http://example.org/提供数件数>      "11" ;
+        <http://example.org/提供数位置図>     "43" ;
+        <http://example.org/提供数土質試験結果>  "519" ;
+        <http://example.org/提供数柱状図>     "413" .
+
+<http://example.org/record6>
+        <http://example.org/2016年度（月）>  "9" ;
+        <http://example.org/提供先その他>     "0" ;
+        <http://example.org/提供先下水道局>    "1" ;
+        <http://example.org/提供先交通局>     "0" ;
+        <http://example.org/提供先区・市・町・村>
+                "0" ;
+        <http://example.org/提供先建設局>     "2" ;
+        <http://example.org/提供先教育庁>     "0" ;
+        <http://example.org/提供先東京水道>    "0" ;
+        <http://example.org/提供先東京消防庁>   "0" ;
+        <http://example.org/提供先水道局>     "4" ;
+        <http://example.org/提供数件数>      "7" ;
+        <http://example.org/提供数位置図>     "6" ;
+        <http://example.org/提供数土質試験結果>  "350" ;
+        <http://example.org/提供数柱状図>     "82" .
